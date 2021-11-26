@@ -1,0 +1,6 @@
+1,IPhone 13
+2,IPhone 12
+3,IPhone 11
+4,IPhone X
+5,IPhone 8
+6,IPhone 7
